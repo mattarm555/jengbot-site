@@ -1,0 +1,7 @@
+:HL["/jengbot-site/_next/static/chunks/3qqvqupjvuqcx.css","style"]
+:HL["/jengbot-site/_next/static/media/191d227036512e10-s.p.0hs6q6udzld4a.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/jengbot-site/_next/static/media/8056169c9d560660-s.p.41rroleoq1br7.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/jengbot-site/_next/static/media/8cccf984c8510bbf-s.p.2li_3lqay9qjq.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+2:[["children",{"s":"__PAGE__","h":160}]]
+1:[["children",{"s":"privacy","h":96,"c":"$Q2"}]]
+0:{"b":"P2wAXMHAui3Vl50hxxHm6","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
